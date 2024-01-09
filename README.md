@@ -1,1 +1,1 @@
-# HTML-CSS-js (coffee shop website)project.
+# HTML-CSS-JS (coffee shop website)project.
